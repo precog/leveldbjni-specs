@@ -1,0 +1,5 @@
+*~
+.ensime
+
+.git/
+target/
